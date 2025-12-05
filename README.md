@@ -9,4 +9,7 @@ It was more difficult than I expected, also I feel very rusted as I have not don
 A bit more difficult, but i was more methodological, thus no issues
 
 ## Day 3
-Am becoming less rusty. This day was defo the most fun one.
+Am becoming less rusty. This day was defo the most fun one so far.
+
+## Day 4
+Meh
