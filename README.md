@@ -6,4 +6,7 @@ Some of my solutions to the Advent of Code
 It was more difficult than I expected, also I feel very rusted as I have not done anything code oriented in some time
 
 ## Day 2
-A bit more difficult, but i was more methodological, thus no issues.
+A bit more difficult, but i was more methodological, thus no issues
+
+## Day 3
+Am becoming less rusty. This day was defo the most fun one.
