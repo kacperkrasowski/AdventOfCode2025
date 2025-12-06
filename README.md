@@ -16,3 +16,6 @@ Meh
 
 ## Day 5
 Super fun one, but made me think. 
+
+## Day 6
+Easier than day 5, in general, half way through i would expect something more difficult
