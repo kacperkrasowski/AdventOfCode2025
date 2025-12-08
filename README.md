@@ -19,3 +19,6 @@ Super fun one, but made me think.
 
 ## Day 6
 Easier than day 5, in general, half way through i would expect something more difficult
+
+## Day 7
+Made me bleed a bit. Recursive functions and sufficient stats are satysfying
