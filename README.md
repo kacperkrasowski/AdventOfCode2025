@@ -22,3 +22,6 @@ Easier than day 5, in general, half way through i would expect something more di
 
 ## Day 7
 Made me bleed a bit. Recursive functions and sufficient stats are satysfying
+
+## Day 8 
+i wasted at least 3 hours trying to implement the stuff using the laplacian AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
